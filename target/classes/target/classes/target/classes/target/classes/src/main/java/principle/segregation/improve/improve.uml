@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>principle.segregation.improve</OriginalElement>
+  <nodes>
+    <node x="286.5" y="206.0">principle.segregation.improve.Interface1</node>
+    <node x="-33.5" y="-9.0">principle.segregation.improve.Interface2</node>
+    <node x="606.5" y="391.0">principle.segregation.improve.Interface3</node>
+    <node x="286.5" y="376.0">principle.segregation.improve.D</node>
+    <node x="571.5" y="176.0">principle.segregation.improve.C</node>
+    <node x="-33.5" y="176.0">principle.segregation.improve.B</node>
+    <node x="251.5" y="-24.0">principle.segregation.improve.A</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="principle.segregation.improve.B" target="principle.segregation.improve.Interface1">
+      <point x="113.5" y="-0.0" />
+      <point x="-113.5" y="-0.0" />
+    </edge>
+    <edge source="principle.segregation.improve.D" target="principle.segregation.improve.Interface3">
+      <point x="113.5" y="-0.0" />
+      <point x="-113.5" y="-0.0" />
+    </edge>
+    <edge source="principle.segregation.improve.B" target="principle.segregation.improve.Interface2">
+      <point x="0.0" y="-64.0" />
+      <point x="0.0" y="49.0" />
+    </edge>
+    <edge source="principle.segregation.improve.D" target="principle.segregation.improve.Interface1">
+      <point x="0.0" y="-64.0" />
+      <point x="0.0" y="34.0" />
+    </edge>
+  </edges>
+  <settings layout="Directed Orthogonal" zoom="1.0" x="417.5" y="240.0" />
+  <SelectedNodes>
+    <node>principle.segregation.improve.Interface1</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Methods</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+

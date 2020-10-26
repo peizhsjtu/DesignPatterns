@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>principle.segregation.Interface1</OriginalElement>
+  <nodes>
+    <node x="247.0" y="238.0">principle.segregation.B</node>
+    <node x="0.0" y="238.0">principle.segregation.D</node>
+    <node x="123.5" y="0.0">principle.segregation.Interface1</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="principle.segregation.D" target="principle.segregation.Interface1">
+      <point x="0.0" y="-94.0" />
+      <point x="113.5" y="213.0" />
+      <point x="180.25" y="213.0" />
+      <point x="-56.75" y="94.0" />
+    </edge>
+    <edge source="principle.segregation.B" target="principle.segregation.Interface1">
+      <point x="0.0" y="-94.0" />
+      <point x="360.5" y="213.0" />
+      <point x="293.75" y="213.0" />
+      <point x="56.75" y="94.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="1.0" x="80.5" y="-13.5" />
+  <SelectedNodes>
+    <node>principle.segregation.Interface1</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Constructors</Category>
+    <Category>Methods</Category>
+    <Category>Properties</Category>
+    <Category>Inner Classes</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
