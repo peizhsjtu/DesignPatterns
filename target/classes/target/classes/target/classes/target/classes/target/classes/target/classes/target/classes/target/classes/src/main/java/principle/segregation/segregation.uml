@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>principle.segregation</OriginalElement>
+  <nodes>
+    <node x="496.47574186122824" y="8.88145553074213">principle.segregation.A</node>
+    <node x="34.146545446237724" y="0.0">principle.segregation.B</node>
+    <node x="0.0" y="527.7766508612119">principle.segregation.C</node>
+    <node x="532.3291964149906" y="476.65810639195405">principle.segregation.D</node>
+    <node x="283.2378709306141" y="238.32905319597705">principle.segregation.Interface1</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="principle.segregation.D" target="principle.segregation.Interface1">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="principle.segregation.B" target="principle.segregation.Interface1">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+  </edges>
+  <settings layout="Balloon" zoom="1.0" x="397.0" y="332.5" />
+  <SelectedNodes>
+    <node>principle.segregation.A</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Methods</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
